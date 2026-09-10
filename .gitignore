@@ -1,0 +1,7 @@
+data/hourly/
+data/hourly_parquet/
+data/*.csv
+data/athena/Unsaved/2026/09/08/
+aws
+awscliv2.zip
+..gitignore.swp
